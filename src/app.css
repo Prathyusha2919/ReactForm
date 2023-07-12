@@ -1,0 +1,17 @@
+.app 
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradent(
+    rgba(255, 255, 255, 0,7),
+    rgba(255, 255, 255, 0.3)
+    )
+}
+  form{
+    background-color: white;
+    padding: 0px 60px;
+    border-radius: 10px;
+  }
+
