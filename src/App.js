@@ -29,7 +29,7 @@ const inputs = [
       name:"Date",
       type: "date",
       placeholder: "mm/dd/yyyy",
-      label: "Birthday",
+      label: "Date",
       required: true,
   },
   {
