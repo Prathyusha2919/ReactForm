@@ -15,7 +15,7 @@ const FormInput =(props) => {
         onChange={onChange}
         onBlur={handleFocus}
         onFocus={() =>inputProps.name === "PhoneNumber" && setFocused(true)}
-        focused={focus.toString()}/>
+        />
     <span >{errorMessage}</span>
     
     </div>
